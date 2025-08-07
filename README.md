@@ -31,7 +31,7 @@
 
 ---
 
-### 📈 GitHub Stats
+<!--### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kasun751&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
@@ -44,6 +44,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasun751&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 </p>
+
+-->
 
 ---
 
